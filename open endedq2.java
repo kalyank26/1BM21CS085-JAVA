@@ -63,3 +63,5 @@ class pmain {
  
  external b1= new external(); 
  b1.calc(); 
+ }
+}
